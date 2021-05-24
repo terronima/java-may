@@ -11,6 +11,7 @@ public class Robot implements Participants{
         this.name = name;
     }
 
+
     @Override
     public boolean Action(Obstacles obstacle) {
         if (obstacle.getClass() == Treadmill.class) {

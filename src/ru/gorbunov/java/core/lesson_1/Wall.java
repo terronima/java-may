@@ -4,7 +4,6 @@ import java.util.Random;
 
 public class Wall implements Obstacles{
 
-
     @Override
     public Integer value() {
         Random rng = new Random();

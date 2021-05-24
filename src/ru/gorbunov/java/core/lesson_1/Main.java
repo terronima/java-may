@@ -1,6 +1,7 @@
 package ru.gorbunov.java.core.lesson_1;
 
 public class Main {
+
     public static void main(String[] args) {
         Participants[] participants = new Participants[3];
         Obstacles[] obstacles = new Obstacles[5];
